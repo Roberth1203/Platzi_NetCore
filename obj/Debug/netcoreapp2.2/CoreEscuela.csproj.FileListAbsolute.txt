@@ -1,0 +1,11 @@
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.deps.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.runtimeconfig.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.runtimeconfig.dev.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.dll
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.pdb
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.csprojAssemblyReference.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.AssemblyInfo.cs
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.dll
+C:\Users\desarrollo3\Documents\dotnetworkspace\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.pdb

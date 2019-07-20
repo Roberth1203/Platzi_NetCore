@@ -1,0 +1,11 @@
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.deps.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.dev.json
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.dll
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.pdb
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csprojAssemblyReference.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfoInputs.cache
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.dll
+C:\Users\desarrollo3\Documents\dotnetworkspace\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.pdb
